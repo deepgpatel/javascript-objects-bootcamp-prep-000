@@ -1,1 +1,1 @@
-var playlist = new Object({ kendrick lamar: "humble"
+var playlist = new Object({ kendrick lamar: "humble", "black panther"})
