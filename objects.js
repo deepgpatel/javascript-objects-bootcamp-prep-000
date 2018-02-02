@@ -10,7 +10,7 @@ function updatePlaylist(playlist, kendrick, humble)
 
 function removeFromPlaylist(playlist, kanye)
 {
-  playlist = { kanye: "gold digger"}
+  playlist = { kanye: "Gold Digger"}
   delete playlist.kanye
   return playlist
 }
