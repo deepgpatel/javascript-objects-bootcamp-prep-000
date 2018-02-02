@@ -8,9 +8,10 @@ function updatePlaylist(playlist, kendrick, humble)
   return playlist
 }
 
-
-
-
+function removeFromPlaylist(playlist, kendrick)
+{
+  
+}
 
 
 
